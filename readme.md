@@ -2,6 +2,8 @@
 
 A comprehensive list of audio processing plugins available for free download. Initially made by and for [/r/mixingmastering](https://www.reddit.com/r/mixingmastering/), hoping it to be made by and for everyone.
 
+★ = Reputable source. Either a well known company/plugin maker, or makers of consistently high quality products.
+
 ## Airwindows
 [VST, AU]
 *"handsewn bespoke digital audio"*
