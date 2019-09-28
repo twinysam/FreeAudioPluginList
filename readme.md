@@ -18,7 +18,7 @@ One dude, making a ton of free plugins.
 - [Panipulator](https://www.bozdigitallabs.com/product/panipulator/)
 - [Width Knob](https://www.bozdigitallabs.com/product/width-knob/)
 
-## Digitalfishphones
+## digitalfishphones
 
 - [the fish fillets](http://www.digitalfishphones.com/main.php?item=2&subItem=5)
 
@@ -89,17 +89,8 @@ These are some old plugins that SSL had released for free on their website in th
 
 These installers will most likely not work on modern systems (Windows 10, MacOS)
 
-- LMC-1 [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg) | More info: https://www.solid-state-logic.co.jp/music/LMC-1/index.html
-- SSL X-Orcism [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg) | More info: https://www.solid-state-logic.co.jp/music/X-Orcism/index.html
-
-## vladg/sound ★
-[VST, AU]
-
-Free plugins made in Russia with love.
-
-- [Molot](https://vladgsound.wordpress.com/plugins/molot/)
-- [Limiter №6](https://vladgsound.wordpress.com/plugins/limiter6/)
-- [Nova-67P](https://vladgsound.wordpress.com/plugins/nova67p/)
+- LMC-1 | [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg) | More info: https://www.solid-state-logic.co.jp/music/LMC-1/index.html
+- SSL X-Orcism | [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg) | More info: https://www.solid-state-logic.co.jp/music/X-Orcism/index.html
 
 ## TAL Software
 
@@ -117,3 +108,28 @@ Free plugins made in Russia with love.
 - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
 - [TDR VOS SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/)
 - [Proximity](https://www.tokyodawn.net/proximity/)
+
+## Voxengo
+
+- [MSED](https://www.voxengo.com/product/msed/)
+- [Sound Delay](https://www.voxengo.com/product/sounddelay/)
+- [SPAN](https://www.voxengo.com/product/span/)
+- [Latency Delay](https://www.voxengo.com/product/latencydelay/)
+- [Overtone GEQ](https://www.voxengo.com/product/overtonegeq/)
+- [AnSpec](https://www.voxengo.com/product/anspec/)
+- [Correlometer](https://www.voxengo.com/product/correlometer/)
+- [Stereo Touch](https://www.voxengo.com/product/stereotouch/)
+- [Boogex](https://www.voxengo.com/product/boogex/)
+- [OldSkoolVerb](https://www.voxengo.com/product/oldskoolverb/)
+- [Marvel GEQ](https://www.voxengo.com/product/marvelgeq/)
+- [Tempo Delay](https://www.voxengo.com/product/tempodelay/)
+- [Tube Amp](https://www.voxengo.com/product/tubeamp/)
+
+## vladg/sound ★
+[VST, AU]
+
+Free plugins made in Russia with love.
+
+- [Molot](https://vladgsound.wordpress.com/plugins/molot/)
+- [Limiter №6](https://vladgsound.wordpress.com/plugins/limiter6/)
+- [Nova-67P](https://vladgsound.wordpress.com/plugins/nova67p/)
