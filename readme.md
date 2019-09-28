@@ -30,6 +30,12 @@ Requires registration
 - [Ozone Imager](https://www.izotope.com/en/products/master-and-deliver/ozone/ozone-imager.html)
 - [Vocal Doubler](https://www.izotope.com/en/products/mix/vocal-doubler.html)
 
+## Klanghelm
+
+- [DC1A](https://klanghelm.com/contents/products/DC1A/DC1A.php)
+- [IVGI](https://klanghelm.com/contents/products/IVGI/IVGI.php)
+- [MJUC jr.](https://klanghelm.com/contents/products/MJUCjr/MJUCjr.php)
+
 ## Native Instruments (Effects only) ★
 Requires registration + Komplete Start
 
@@ -45,6 +51,15 @@ Requires registration
 - [UltraComp](https://www.pluginboutique.com/products/238-UltraComp)
 - [Stereo Bus Compressor](https://www.pluginboutique.com/products/878-Stereo-Buss-Compressor)
 
+## Plugin Alliance ★
+Requires registration
+
+- [bx_cleansweep](https://www.plugin-alliance.com/en/products/bx_cleansweep_v2.html) (Brainworx)
+- [bx_solo](https://www.plugin-alliance.com/en/products/bx_solo.html) (Brainworx)
+- [bx_subfilter](https://www.plugin-alliance.com/en/products/bx_subfilter.html) (Brainworx)
+- [Double MS](https://www.plugin-alliance.com/en/products/schoeps_double_ms.html) (Schoeps)
+- [Free Ranger](https://www.plugin-alliance.com/en/products/spl_free_ranger.html) (SPL)
+- [niveau filter](https://www.plugin-alliance.com/en/products/elysia_niveau_filter.html) (elysia)
 
 ## ValhallaDSP ★
 
