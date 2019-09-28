@@ -12,6 +12,55 @@ One dude, making a ton of free plugins.
 
 - http://www.airwindows.com/
 
+## iZotope ★
+Requires registration
+
+- [Vinyl](https://www.izotope.com/en/products/create-and-design/vinyl.html)
+- [Ozone Imager](https://www.izotope.com/en/products/master-and-deliver/ozone/ozone-imager.html)
+- [Vocal Doubler](https://www.izotope.com/en/products/mix/vocal-doubler.html)
+
+## Plugin Alliance ★
+Requires registration
+
+- [bx_cleansweep](https://www.plugin-alliance.com/en/products/bx_cleansweep_v2.html) (Brainworx)
+- [bx_solo](https://www.plugin-alliance.com/en/products/bx_solo.html) (Brainworx)
+- [bx_subfilter](https://www.plugin-alliance.com/en/products/bx_subfilter.html) (Brainworx)
+- [Double MS](https://www.plugin-alliance.com/en/products/schoeps_double_ms.html) (Schoeps)
+- [Free Ranger](https://www.plugin-alliance.com/en/products/spl_free_ranger.html) (SPL)
+- [niveau filter](https://www.plugin-alliance.com/en/products/elysia_niveau_filter.html) (elysia)
+
+## ValhallaDSP ★
+
+- [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
+
+## Softube ★
+Requires registration + ilok account
+
+- [Saturation Knob](https://www.softube.com/saturationknob)
+
+## Solid State Logic ★
+
+These are some old plugins that SSL had released for free on their website in the mid 2000s. They are no longer available on their main official site, but they are still mentioned on their site hosted in japan and the installation files still remain on their servers (to which we are linking to).
+
+These installers will most likely not work on modern systems (Windows 10, MacOS)
+
+- LMC-1 | [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg) | More info: https://www.solid-state-logic.co.jp/music/LMC-1/index.html
+- SSL X-Orcism | [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg) | More info: https://www.solid-state-logic.co.jp/music/X-Orcism/index.html
+
+## Tokyo Dawn Labs ★
+
+- [TDR Nova](https://www.tokyodawn.net/tdr-nova/)
+- [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
+- [TDR VOS SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/)
+- [Proximity](https://www.tokyodawn.net/proximity/)
+
+## Variety of Sound ★
+[32-bit VST only]
+
+*“In each of my effects there is a special technical design, workflow or concept combination I haven’t found in existing tools. Many developers these days just stick to old concepts, but you will never see a straight copy of existing gear from me. I always add some innovation, or find a way to evolve and take it to a new level.”*
+
+- https://varietyofsound.wordpress.com
+
 ## Boz Digital Labs
 
 - [Bark of Dog](https://www.bozdigitallabs.com/product/bark-of-dog/)
@@ -26,13 +75,6 @@ One dude, making a ton of free plugins.
 Requires registration + an installer with all their plugins
 
 - [Midside Matrix](https://goodhertz.co/midside-matrix)
-
-## iZotope ★
-Requires registration
-
-- [Vinyl](https://www.izotope.com/en/products/create-and-design/vinyl.html)
-- [Ozone Imager](https://www.izotope.com/en/products/master-and-deliver/ozone/ozone-imager.html)
-- [Vocal Doubler](https://www.izotope.com/en/products/mix/vocal-doubler.html)
 
 ## Klanghelm
 
@@ -64,34 +106,6 @@ Requires registration
 - [UltraComp](https://www.pluginboutique.com/products/238-UltraComp)
 - [Stereo Bus Compressor](https://www.pluginboutique.com/products/878-Stereo-Buss-Compressor)
 
-## Plugin Alliance ★
-Requires registration
-
-- [bx_cleansweep](https://www.plugin-alliance.com/en/products/bx_cleansweep_v2.html) (Brainworx)
-- [bx_solo](https://www.plugin-alliance.com/en/products/bx_solo.html) (Brainworx)
-- [bx_subfilter](https://www.plugin-alliance.com/en/products/bx_subfilter.html) (Brainworx)
-- [Double MS](https://www.plugin-alliance.com/en/products/schoeps_double_ms.html) (Schoeps)
-- [Free Ranger](https://www.plugin-alliance.com/en/products/spl_free_ranger.html) (SPL)
-- [niveau filter](https://www.plugin-alliance.com/en/products/elysia_niveau_filter.html) (elysia)
-
-## ValhallaDSP ★
-
-- [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
-
-## Softube ★
-Requires registration + ilok account
-
-- [Saturation Knob](https://www.softube.com/saturationknob)
-
-## Solid State Logic ★
-
-These are some old plugins that SSL had released for free on their website in the mid 2000s. They are no longer available on their main official site, but they are still mentioned on their site hosted in japan and the installation files still remain on their servers (to which we are linking to).
-
-These installers will most likely not work on modern systems (Windows 10, MacOS)
-
-- LMC-1 | [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg) | More info: https://www.solid-state-logic.co.jp/music/LMC-1/index.html
-- SSL X-Orcism | [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg) | More info: https://www.solid-state-logic.co.jp/music/X-Orcism/index.html
-
 ## TAL Software
 
 - [TAL-Chorus-LX](https://tal-software.com/products/tal-chorus-lx)
@@ -101,13 +115,6 @@ These installers will most likely not work on modern systems (Windows 10, MacOS)
 - [TAL-Reverb 2 & 3](https://tal-software.com/products/tal-reverb)
 - [TAL-Reverb-4](https://tal-software.com/products/tal-reverb-4)
 - [TAL-Vocoder](https://tal-software.com/products/tal-vocoder)
-
-## Tokyo Dawn Labs ★
-
-- [TDR Nova](https://www.tokyodawn.net/tdr-nova/)
-- [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
-- [TDR VOS SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/)
-- [Proximity](https://www.tokyodawn.net/proximity/)
 
 ## Voxengo
 
@@ -137,3 +144,8 @@ Free plugins made in Russia with love.
 ## Youlean
 
 - [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
+
+## Aegean Music
+
+- [Pitchproof](https://aegeanmusic.com/pitchproof-specs)
+- [Doppler Dome](https://aegeanmusic.com/doppler-dome-specs)
