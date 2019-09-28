@@ -18,6 +18,10 @@ One dude, making a ton of free plugins.
 - [Panipulator](https://www.bozdigitallabs.com/product/panipulator/)
 - [Width Knob](https://www.bozdigitallabs.com/product/width-knob/)
 
+## Digitalfishphones
+
+- [the fish fillets](http://www.digitalfishphones.com/main.php?item=2&subItem=5)
+
 ## Goodhertz ★
 Requires registration + an installer with all their plugins
 
