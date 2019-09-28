@@ -36,6 +36,15 @@ Requires registration
 - [IVGI](https://klanghelm.com/contents/products/IVGI/IVGI.php)
 - [MJUC jr.](https://klanghelm.com/contents/products/MJUCjr/MJUCjr.php)
 
+## lkjb
+
+- [Luftikus](https://www.kvraudio.com/product/luftikus-by-lkjb)
+- [PitchedDelay](https://www.kvraudio.com/product/pitcheddelay-by-lkjb)
+- [QRange](https://www.kvraudio.com/product/qrange-by-lkjb)
+- [ReFine](https://www.kvraudio.com/product/refine-by-lkjb)
+- [SuperSpread](https://www.kvraudio.com/product/superspread-by-lkjb)
+- [TinyQ](https://www.kvraudio.com/product/tinyq-by-lkjb)
+
 ## Native Instruments (Effects only) ★
 Requires registration + Komplete Start
 
@@ -76,8 +85,8 @@ These are some old plugins that SSL had released for free on their website in th
 
 These installers will most likely not work on modern systems (Windows 10, MacOS)
 
-- LMC-1 [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg) More info: https://www.solid-state-logic.co.jp/music/LMC-1/index.html
-- SSL X-Orcism [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg) More info: https://www.solid-state-logic.co.jp/music/X-Orcism/index.html
+- LMC-1 [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg) | More info: https://www.solid-state-logic.co.jp/music/LMC-1/index.html
+- SSL X-Orcism [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg) | More info: https://www.solid-state-logic.co.jp/music/X-Orcism/index.html
 
 ## vladg/sound ★
 [VST, AU]
@@ -88,18 +97,19 @@ Free plugins made in Russia with love.
 - [Limiter №6](https://vladgsound.wordpress.com/plugins/limiter6/)
 - [Nova-67P](https://vladgsound.wordpress.com/plugins/nova67p/)
 
+## TAL Software
+
+- [TAL-Chorus-LX](https://tal-software.com/products/tal-chorus-lx)
+- [TAL-Dub's](https://tal-software.com/products/tal-dub)
+- [TAL-Effects](https://tal-software.com/products/tal-effects)
+- [TAL-Filter](https://tal-software.com/products/tal-filter)
+- [TAL-Reverb 2 & 3](https://tal-software.com/products/tal-reverb)
+- [TAL-Reverb-4](https://tal-software.com/products/tal-reverb-4)
+- [TAL-Vocoder](https://tal-software.com/products/tal-vocoder)
+
 ## Tokyo Dawn Labs ★
 
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/)
 - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
 - [TDR VOS SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/)
 - [Proximity](https://www.tokyodawn.net/proximity/)
-
-## lkjb
-
-- [Luftikus](https://www.kvraudio.com/product/luftikus-by-lkjb)
-- [PitchedDelay](https://www.kvraudio.com/product/pitcheddelay-by-lkjb)
-- [QRange](https://www.kvraudio.com/product/qrange-by-lkjb)
-- [ReFine](https://www.kvraudio.com/product/refine-by-lkjb)
-- [SuperSpread](https://www.kvraudio.com/product/superspread-by-lkjb)
-- [TinyQ](https://www.kvraudio.com/product/tinyq-by-lkjb)
