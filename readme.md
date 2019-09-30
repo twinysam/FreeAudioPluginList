@@ -158,3 +158,8 @@ Free plugins made in Russia with love.
 Requires downloading an installer with all of their plugins, but you can select to install only the free bundle (or individual plugins).
 
 - [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle)
+
+## A1Audio
+
+- [A1TriggerGate](http://www.alexhilton.net/A1AUDIO/index.php/a1triggergate)
+- [A1StereoControl](http://www.alexhilton.net/A1AUDIO/index.php/a1stereocontrol)
