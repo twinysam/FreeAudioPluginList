@@ -10,7 +10,7 @@ A comprehensive list of audio processing plugins available for free download. In
 
 One dude, making a ton of free plugins.
 
-- http://www.airwindows.com/
+- [http://www.airwindows.com/](http://www.airwindows.com/)
 
 ## iZotope ★
 Requires registration
@@ -59,7 +59,7 @@ These installers will most likely not work on modern systems (Windows 10, MacOS)
 
 *“In each of my effects there is a special technical design, workflow or concept combination I haven’t found in existing tools. Many developers these days just stick to old concepts, but you will never see a straight copy of existing gear from me. I always add some innovation, or find a way to evolve and take it to a new level.”*
 
-- https://varietyofsound.wordpress.com
+- [https://varietyofsound.wordpress.com](https://varietyofsound.wordpress.com)
 
 ## Boz Digital Labs
 
@@ -167,7 +167,7 @@ Requires downloading an installer with all of their plugins, but you can select 
 ## Sonic Anomaly
 [VST for Windows only and jSFX for Reaper (Win and Mac)]
 
-- https://sonic.supermaailma.net/plugins
+- [https://sonic.supermaailma.net/plugins](https://sonic.supermaailma.net/plugins)
 
 ## Denis Tihanov
 [VST]
