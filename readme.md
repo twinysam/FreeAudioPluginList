@@ -168,3 +168,8 @@ Requires downloading an installer with all of their plugins, but you can select 
 [VST for Windows only and jSFX for Reaper (Win and Mac)]
 
 - https://sonic.supermaailma.net/plugins
+
+## Denis Tihanov
+[VST]
+
+- [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
