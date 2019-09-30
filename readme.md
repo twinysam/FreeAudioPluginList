@@ -163,3 +163,8 @@ Requires downloading an installer with all of their plugins, but you can select 
 
 - [A1TriggerGate](http://www.alexhilton.net/A1AUDIO/index.php/a1triggergate)
 - [A1StereoControl](http://www.alexhilton.net/A1AUDIO/index.php/a1stereocontrol)
+
+## Sonic Anomaly
+[VST for Windows only and jSFX for Reaper (Win and Mac)]
+
+- https://sonic.supermaailma.net/plugins
