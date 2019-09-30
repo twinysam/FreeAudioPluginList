@@ -153,3 +153,8 @@ Free plugins made in Russia with love.
 ## Blue Cat Audio
 
 - [Blue Cat's Freeware Plug-ins Pack II](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)
+
+## MeldaProduction
+Requires downloading an installer with all of their plugins, but you can select to install only the free bundle (or individual plugins).
+
+- [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle)
