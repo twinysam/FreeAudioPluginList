@@ -173,3 +173,10 @@ Requires downloading an installer with all of their plugins, but you can select 
 [VST]
 
 - [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
+
+## TBProAudio
+
+- [ISOL8](https://www.tb-software.com/TBProAudio/ISOL8.html)
+- [mvMeter2](https://www.tb-software.com/TBProAudio/mvmeter2.html)
+- [sTilt](https://www.tb-software.com/TBProAudio/stilt.html)
+- [dpMeter 4](https://www.tb-software.com/TBProAudio/dpmeter4.html)
