@@ -149,3 +149,7 @@ Free plugins made in Russia with love.
 
 - [Pitchproof](https://aegeanmusic.com/pitchproof-specs)
 - [Doppler Dome](https://aegeanmusic.com/doppler-dome-specs)
+
+## Blue Cat Audio
+
+- [Blue Cat's Freeware Plug-ins Pack II](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)
