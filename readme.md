@@ -44,8 +44,8 @@ These are some old plugins that SSL had released for free on their website in th
 
 These installers will most likely not work on modern systems (Windows 10, MacOS)
 
-- [LMC-1](https://www.solid-state-logic.co.jp/music/LMC-1/index.html) | [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg)
-- [SSL X-Orcism](https://www.solid-state-logic.co.jp/music/X-Orcism/index.html) | [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) | [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg)
+- [LMC-1](https://www.solid-state-logic.co.jp/music/LMC-1/index.html) [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg)
+- [SSL X-Orcism](https://www.solid-state-logic.co.jp/music/X-Orcism/index.html) [Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg)
 
 ## Tokyo Dawn Labs ★
 
