@@ -1,8 +1,16 @@
-# ULTIMATE FREE AUDIO PLUGIN LIST
+## About The List
 
 A comprehensive list of audio processing plugins available for free download. Initially made by and for [/r/mixingmastering](https://www.reddit.com/r/mixingmastering/), hoping it to be made by and for everyone.
 
+This list was conceived so that people starting up in all forms of professional audio or trying to do it with limited resources, can have access to as wide a set of tools as possible.
+
+No virtual instruments, that's a whole different category. We just cover processing plugins (including meters and whatnot), for mixing or mastering and sound design.
+
 ★ = Reputable source. Either a well known company/plugin maker, or makers of consistently high quality products.
+
+Pull requests are welcome, provided that you only add either a single plugin maker (and their plugins) or item at a time.
+
+---
 
 ## Airwindows
 [VST, AU]
