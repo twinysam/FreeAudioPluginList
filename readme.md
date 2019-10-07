@@ -193,7 +193,7 @@ Requires downloading an installer with all of their plugins, but you can select 
 [Windows VST]
 
 - [GEQ Graphic EQ](https://1208audio.com/downloads/1208-geq/)
-- [MEQ EQUALIZER)(https://1208audio.com/downloads/meq-tone-eq/)
+- [MEQ EQUALIZER](https://1208audio.com/downloads/meq-tone-eq/)
 - [REVIBER](https://1208audio.com/downloads/reviber/)
 - [SCS Channel](https://1208audio.com/downloads/1208-scs-channel/)
 - [SEQ Classic EQ](https://1208audio.com/downloads/1208-seq/)
