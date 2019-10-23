@@ -69,6 +69,11 @@ These installers will most likely not work on modern systems (Windows 10, MacOS)
 
 - [https://varietyofsound.wordpress.com](https://varietyofsound.wordpress.com)
 
+## Slate Digital ★
+Requires iLok account
+
+- [Revival](https://www.slatedigital.com/revival/)
+
 ## Boz Digital Labs
 
 - [Bark of Dog](https://www.bozdigitallabs.com/product/bark-of-dog/)
