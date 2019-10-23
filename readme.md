@@ -73,6 +73,7 @@ These installers will most likely not work on modern systems (Windows 10, MacOS)
 Requires iLok account
 
 - [Revival](https://www.slatedigital.com/revival/)
+- [The Monster Extreme Dynamic Processor](https://www.slatedigital.com/the-monster-extreme-dynamic-processor/)
 
 ## Boz Digital Labs
 
