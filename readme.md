@@ -204,3 +204,7 @@ Requires downloading an installer with all of their plugins, but you can select 
 - [SCS Channel](https://1208audio.com/downloads/1208-scs-channel/)
 - [SEQ Classic EQ](https://1208audio.com/downloads/1208-seq/)
 - [TEQ Tilt EQ](https://1208audio.com/downloads/teq-eq/)
+
+## Audio Damage
+
+- [Rough Rider & FuzzPlus](https://www.audiodamage.com/pages/free-downloads)
