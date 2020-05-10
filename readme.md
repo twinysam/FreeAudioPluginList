@@ -208,3 +208,7 @@ Requires downloading an installer with all of their plugins, but you can select 
 ## Audio Damage
 
 - [Rough Rider & FuzzPlus](https://www.audiodamage.com/pages/free-downloads)
+
+## Xfer
+
+- [Freeware plugins](https://xferrecords.com/freeware)
