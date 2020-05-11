@@ -1,4 +1,3 @@
-theme: minima:
-         skin: dark
+theme: minima
 #remote_theme: karloespiritu/BlackDoc
 title: [The List of Free Plugins]
