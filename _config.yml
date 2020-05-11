@@ -1,3 +1,4 @@
+theme: minima
 minima:
   skin: dark
 #remote_theme: karloespiritu/BlackDoc
