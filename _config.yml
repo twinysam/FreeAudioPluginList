@@ -1,3 +1,4 @@
-# theme: jekyll-theme-hacker
-remote_theme: karloespiritu/BlackDoc
+minima:
+  skin: dark
+#remote_theme: karloespiritu/BlackDoc
 title: [The List of Free Plugins]
