@@ -39,7 +39,8 @@ Requires registration
 
 ## ValhallaDSP ★
 
-- [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
+- [Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
+- [Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ## Softube ★
 Requires registration + ilok account
