@@ -40,6 +40,7 @@ Requires registration
 ## ValhallaDSP ★
 
 - [Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
+- [Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
 - [Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ## Softube ★
