@@ -212,3 +212,7 @@ Requires downloading an installer with all of their plugins, but you can select 
 ## Xfer
 
 - [Freeware plugins](https://xferrecords.com/freeware)
+
+## u-he
+
+- [Protoverb](https://u-he.com/products/protoverb/)
