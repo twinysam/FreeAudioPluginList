@@ -216,3 +216,14 @@ Requires downloading an installer with all of their plugins, but you can select 
 ## u-he
 
 - [Protoverb](https://u-he.com/products/protoverb/)
+
+## Analog Obsession
+[VST and AU for Windows and Mac]
+
+*"I'm Rıdvan Küçük (Tunca). Musician, hardware designer and plugin developer.*
+
+*My plugins are now available exclusively on Patreon, and they're free!*
+
+*Bringing the classic sound of analog hardware into your DAW is what I love to do."*
+
+- [Patreon link](https://www.patreon.com/analogobsession)
