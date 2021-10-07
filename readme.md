@@ -227,3 +227,7 @@ Requires downloading an installer with all of their plugins, but you can select 
 *Bringing the classic sound of analog hardware into your DAW is what I love to do."*
 
 - [Patreon link](https://www.patreon.com/analogobsession)
+
+## Stillwell Audio
+
+- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) - "Bitter shows how many of the available bits are being used by the audio signal, reports clipping samples, and estimates when digital-to-analog conversion would cause inter-sample clips."
