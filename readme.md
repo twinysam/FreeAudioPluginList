@@ -231,3 +231,9 @@ Requires downloading an installer with all of their plugins, but you can select 
 ## Stillwell Audio
 
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) - "Bitter shows how many of the available bits are being used by the audio signal, reports clipping samples, and estimates when digital-to-analog conversion would cause inter-sample clips."
+
+## Ignite Amps
+
+*"At Ignite Amps, we decided to keep pace with technology, developing in-house highly detailed digital simulations of tube and solid-state electronic circuits."*
+
+- [Ignite Amps plugins](https://www.igniteamps.com/#software) (all free except for Libra)
