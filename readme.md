@@ -237,3 +237,8 @@ Requires downloading an installer with all of their plugins, but you can select 
 *"At Ignite Amps, we decided to keep pace with technology, developing in-house highly detailed digital simulations of tube and solid-state electronic circuits."*
 
 - [Ignite Amps plugins](https://www.igniteamps.com/#software) (all free except for Libra)
+
+## Black Rooster Audio
+
+- [The Canary](https://blackroosteraudio.com/en/products/canary) - "This plug-in let's you expand and recover some fundamental aspects of the drum signal that may have been lost during the recording process or which haven‘t been there in the first place."
+- [Cypress TT-15](https://blackroosteraudio.com/en/products/cypress_tt-15) - "Black Rooster Audio‘s guitar amp head emulation meticulously modeled after a very versatile, yet uniquely sounding low wattage amplifier"
