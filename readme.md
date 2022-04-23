@@ -6,7 +6,7 @@ No virtual instruments, that's a whole different category. We just cover process
 
 ★ = Reputable source. Either a well known company/plugin maker, or makers of consistently high quality products.
 
-Pull requests are welcome, provided that you only add either a single plugin maker (and their plugins) or item at a time.
+**Contributions are welcome**. You can submit a pull request, provided that you only add either a single plugin maker (and their plugins) or item at a time. Otherwise you can just [submit a plugin suggestion](https://github.com/twinysam/FreeAudioPluginList/discussions/new).
 
 ---
 
