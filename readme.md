@@ -242,3 +242,13 @@ Requires downloading an installer with all of their plugins, but you can select 
 
 - [The Canary](https://blackroosteraudio.com/en/products/canary) - "This plug-in let's you expand and recover some fundamental aspects of the drum signal that may have been lost during the recording process or which haven‘t been there in the first place."
 - [Cypress TT-15](https://blackroosteraudio.com/en/products/cypress_tt-15) - "Black Rooster Audio‘s guitar amp head emulation meticulously modeled after a very versatile, yet uniquely sounding low wattage amplifier"
+
+## Chowdhury DSP
+
+*"Chowdhury DSP is a project created by Jatin Chowdhury with the intention of developing innovative and high-quality audio software, as well as making that software available to the widest audience possible."*
+
+- [All plugins](https://chowdsp.com/products.html)
+- Chow Tape Model - *"a digital emulation of a reel-to-reel analog tape machine."*
+- Chow Matrix - *"an infinitely growable delay effect, with complex internal modulation and feedback."*
+- Chow Centaur - *"a digital emulation of the Klon Centaur guitar pedal."*
+- Chow Phaser - *"a digital phaser effect originally inspired by the Schulte Compact Phasing 'A'."*
