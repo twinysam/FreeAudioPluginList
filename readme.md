@@ -252,3 +252,7 @@ Requires downloading an installer with all of their plugins, but you can select 
 - Chow Matrix - *"an infinitely growable delay effect, with complex internal modulation and feedback."*
 - Chow Centaur - *"a digital emulation of the Klon Centaur guitar pedal."*
 - Chow Phaser - *"a digital phaser effect originally inspired by the Schulte Compact Phasing 'A'."*
+
+## Klevgrand
+
+- [FreeAMP](https://klevgrand.com/products/freeamp) - *"...the sound of tape and tube saturation at the same time."*
