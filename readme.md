@@ -195,16 +195,6 @@ Requires downloading an installer with all of their plugins, but you can select 
 - [sTilt](https://www.tb-software.com/TBProAudio/stilt.html) - "sTilt is a linear phase filter which tilts the audio spectrum around a given center frequency."
 - [dpMeter 4](https://www.tb-software.com/TBProAudio/dpmeter4.html) - "DSEQ is a dynamic processor working in the frequency domain.DSEQ removes digital harshness on the fly thanks to self-adjusting frequency bands."
 
-## 1208 Audio
-[Windows VST]
-
-- [GEQ Graphic EQ](https://1208audio.com/downloads/1208-geq/) - "12 Band Graphic Equalizer"
-- [MEQ EQUALIZER](https://1208audio.com/downloads/meq-tone-eq/) - "Smooth 5 Band Musical EQ"
-- [REVIBER](https://1208audio.com/downloads/reviber/) - "A Musical Two Knob Audio Enhancer"
-- [SCS Channel](https://1208audio.com/downloads/1208-scs-channel/) - "Routable Modular Signal Chain, 4 Band Classic Parametric EQ, Versatile All Purpose Compressor"
-- [SEQ Classic EQ](https://1208audio.com/downloads/1208-seq/) - "4 Band Parametric EQ with HP Filter"
-- [TEQ Tilt EQ](https://1208audio.com/downloads/teq-eq/) - "Smooth Tilt EQ"
-
 ## Audio Damage
 
 - [Rough Rider](https://www.audiodamage.com/pages/free-downloads) - "one of the most popular free compressors in the world"
