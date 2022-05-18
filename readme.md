@@ -47,10 +47,11 @@ Requires registration + ilok account
 - [Saturation Knob](https://www.softube.com/saturationknob) - "Three modes, three kinds of distortion character​. Great for fattening up drums and bass, adding harmonics to vocals, and more"
 
 ## Solid State Logic ★
+[32-bit only, legacy plugins]
 
 These are some old plugins that SSL had released for free on their website in the mid 2000s. They are no longer available on their main official site, but they are still mentioned on their site hosted in japan and the installation files still remain on their servers (to which we are linking to).
 
-These installers will most likely not work on modern systems (Windows 10, MacOS)
+These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 
 - [LMC-1](https://www.solid-state-logic.co.jp/music/LMC-1/index.html) ([Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL_LMC1_Installer.zip) or [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/LMC-1/SSL-LMC-1-v1_1_3.dmg)) - "The SSL Listen Mic Compressor was the secret weapon in many producers sonic arsenal of recording techniques. Originally designed to prevent overloading the return feed from a studio communications mic, its fixed attack and release curves were eminently suitable for use on ambient drums mics."
 - [SSL X-Orcism](https://www.solid-state-logic.co.jp/music/X-Orcism/index.html) ([Windows](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.zip) or [Mac](http://downloads.solidstatelogic.com.s3.amazonaws.com/X-Orcism/SSL_X-Orcism.dmg)) - "In response to ghost stories of economic doom and gloom we invite you to celebrate the festival of witches and ghouls with a bit of fun."
