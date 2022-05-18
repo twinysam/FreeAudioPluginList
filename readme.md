@@ -21,9 +21,9 @@ One dude, making a ton of free plugins.
 ## iZotope ★
 Requires registration
 
-- [Vinyl](https://www.izotope.com/en/products/create-and-design/vinyl.html) - "Vinyl simulates the dust, scratches, warp, and mechanical noise reminiscent of yesteryear"
-- [Ozone Imager](https://www.izotope.com/en/products/master-and-deliver/ozone/ozone-imager.html) - "Control the width of any track, perfect for making super-wide sounds or creating narrow, mono-like sources."
-- [Vocal Doubler](https://www.izotope.com/en/products/mix/vocal-doubler.html) - "Vocal Doubler is a free plug-in designed to enhance your vocal with a natural doubling effect, adding richness and depth."
+- [Vinyl](https://www.izotope.com/en/products/vinyl.html) - "Vinyl simulates the dust, scratches, warp, and mechanical noise reminiscent of yesteryear"
+- [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html) - "Control the width of any track, perfect for making super-wide sounds or creating narrow, mono-like sources."
+- [Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html) - "Vocal Doubler is a free plug-in designed to enhance your vocal with a natural doubling effect, adding richness and depth."
 
 ## Plugin Alliance ★
 Requires registration
