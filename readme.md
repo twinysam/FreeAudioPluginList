@@ -247,3 +247,8 @@ Requires downloading an installer with all of their plugins, but you can select 
 ## Klevgrand
 
 - [FreeAMP](https://klevgrand.com/products/freeamp) - *"...the sound of tape and tube saturation at the same time."*
+
+## Polyverse Music/Infected Mushroom
+Email required
+
+- [Wider](https://polyversemusic.com/products/wider/) - "Pseudo stereo widener without phase issues"
