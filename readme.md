@@ -79,6 +79,7 @@ One dude, making a ton of free plugins.
 Requires registration + an installer with all their plugins
 
 - [Midside Matrix](https://goodhertz.co/midside-matrix)
+- [Loudness](https://goodhertz.com/loudness/)
 
 ## Ignite Amps
 
