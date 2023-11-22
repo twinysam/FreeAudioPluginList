@@ -189,8 +189,9 @@ These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - *"NOVA is a parallel dynamic equalizer. Appearing in the familiar layout of a parametric equalizer, each band also includes a full featured dynamics section allowing the processor to cover an impressively wide range of applications."*
 - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) - *"TDR Kotelnikov is a wideband dynamics processor combining high fidelity dynamic range control with deep musical flexibility."*
+- [TDR Prism](https://www.tokyodawn.net/tdr-prism/) - *"...a modern frequency analyzer with a focus on human audio perception."*
 - [TDR VOS SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/) - *"Three (and a half) filter-bands arranged in a classic Low/Mid/High semi-parametric layout offer fast and intuitive access to four distinct EQ modes, each representing a set of distinct EQ curves and behaviors."*
-- [Proximity](https://www.tokyodawn.net/proximity/) - *"The plug-in is an easy to use distance “pan-pot” based on several psycho-acoustic models."*
+- [Proximity](https://www.tokyodawn.net/proximity/) - *"...an easy to use distance “pan-pot” based on several psycho-acoustic models."*
 
 ## u-he
 
