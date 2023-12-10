@@ -37,6 +37,11 @@ One dude, making a ton of free plugins.
 
 - [Patreon link](https://www.patreon.com/analogobsession)
 
+## Apogee
+[Requires email]
+
+- [Soft Limit](https://apogeedigital.com/products/plugins/soft-limit) - *"Soft Limit has been an integral feature of Apogee converters since the AD-500, our first standalone A-D converter released in 1991. And now, for the very first time, this simple but highly effective analog tape emulation is available as a free audio plugin."*
+
 ## Audio Damage
 
 - [Rough Rider](https://www.audiodamage.com/pages/free-downloads) - *"one of the most popular free compressors in the world"*
@@ -75,7 +80,7 @@ One dude, making a ton of free plugins.
 
 - [the fish fillets](http://www.digitalfishphones.com/main.php?item=2&subItem=5)
 
-## Goodhertz 
+## Goodhertz
 Requires registration + an installer with all their plugins
 
 - [Midside Matrix](https://goodhertz.co/midside-matrix)
@@ -87,7 +92,7 @@ Requires registration + an installer with all their plugins
 
 - [Ignite Amps plugins](https://www.igniteamps.com/#software) (all free except for Libra)
 
-## iZotope 
+## iZotope
 Requires registration
 
 - [Vinyl](https://www.izotope.com/en/products/vinyl.html) - *"Vinyl simulates the dust, scratches, warp, and mechanical noise reminiscent of yesteryear"*
@@ -118,12 +123,12 @@ Requires downloading an installer with all of their plugins, but you can select 
 
 - [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle)
 
-## Native Instruments (Effects only) 
+## Native Instruments (Effects only)
 Requires registration + Komplete Start
 
 - [Supercharger](https://www.native-instruments.com/en/products/komplete/effects/supercharger/) - *"Dripping with the high-octane attitude of a one-of-a-kind tube compressor – with an intelligent interface designed for supreme ease of use."*
 
-## Plugin Alliance 
+## Plugin Alliance
 Requires registration
 
 - [bx_cleansweep](https://www.plugin-alliance.com/en/products/bx_cleansweep_v2.html) (Brainworx) - *"bx_cleansweep is the plugin that should go into every mix channel as the first plugin. This way you can filter out any unwanted hi-end and lo-end, and the result is a clean and tight mix."*
@@ -138,18 +143,18 @@ Email required
 
 - [Wider](https://polyversemusic.com/products/wider/) - *"Pseudo stereo widener without phase issues"*
 
-## Slate Digital 
+## Slate Digital
 Requires iLok account
 
 - [Revival](https://www.slatedigital.com/revival/) - *"The result of years of research into what makes things sound ‘better’, Slate Digital’s Revival is a new type of Sonic Enhancer."*
 - [The Monster Extreme Dynamic Processor](https://www.slatedigital.com/the-monster-extreme-dynamic-processor/) - *"The Monster emulates the classic “all-buttons-in” extreme compression sound of the famous vintage FET limiter hardware."*
 
-## Softube 
+## Softube
 Requires registration + ilok account
 
 - [Saturation Knob](https://www.softube.com/saturationknob) - *"Three modes, three kinds of distortion character. Great for fattening up drums and bass, adding harmonics to vocals, and more"*
 
-## Solid State Logic 
+## Solid State Logic
 [32-bit only, legacy plugins]
 
 These are some old plugins that SSL had released for free on their website in the mid 2000s. They are no longer available on their main official site, but they are still hosted on their servers (to which we are linking to).
@@ -185,7 +190,7 @@ These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 - [sTilt](https://www.tb-software.com/TBProAudio/stilt.html) - *"sTilt is a linear phase filter which tilts the audio spectrum around a given center frequency."*
 - [dpMeter 4](https://www.tb-software.com/TBProAudio/dpmeter4.html) - *"DSEQ is a dynamic processor working in the frequency domain.DSEQ removes digital harshness on the fly thanks to self-adjusting frequency bands."*
 
-## Tokyo Dawn Labs 
+## Tokyo Dawn Labs
 
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - *"NOVA is a parallel dynamic equalizer. Appearing in the familiar layout of a parametric equalizer, each band also includes a full featured dynamics section allowing the processor to cover an impressively wide range of applications."*
 - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) - *"TDR Kotelnikov is a wideband dynamics processor combining high fidelity dynamic range control with deep musical flexibility."*
@@ -197,18 +202,18 @@ These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 
 - [Protoverb](https://u-he.com/products/protoverb/) - *"A natural sounding reverb based on the concept of a room simulator. Protoverb is an experimental researchware plug-in, developed to aid our research."*
 
-## ValhallaDSP 
+## ValhallaDSP
 
 - [Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) - *"Bode-Style Frequency Shifter + Analog Echo Emulation create surprising sonic effects. Subtle chorusing and double tracking to barberpole phasing and flanging to endless glissandos and runaway echos."*
 - [Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) - *"Eleven algorithms allow you to get through-zero flanging, barberpole flanging, detuning, doubling, strange echoes, reverbs, and all sorts of effects that defy description."*
 - [Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) - *"Get ready for luscious clouds of reverb, otherworldly delays, swelling waves of feedback unlike any you’ve heard before."*
 
-## Variety of Sound 
+## Variety of Sound
 [32-bit VST only]
 
 *“In each of my effects there is a special technical design, workflow or concept combination I haven’t found in existing tools. Many developers these days just stick to old concepts, but you will never see a straight copy of existing gear from me. I always add some innovation, or find a way to evolve and take it to a new level.”*
 
-## vladg/sound 
+## vladg/sound
 [VST, AU]
 
 Free plugins made in Russia with love.
