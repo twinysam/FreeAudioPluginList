@@ -37,11 +37,6 @@ One dude, making a ton of free plugins.
 
 - [Patreon link](https://www.patreon.com/analogobsession)
 
-## Apogee
-[Requires email]
-
-- [Soft Limit](https://apogeedigital.com/products/plugins/soft-limit) - *"Soft Limit has been an integral feature of Apogee converters since the AD-500, our first standalone A-D converter released in 1991. And now, for the very first time, this simple but highly effective analog tape emulation is available as a free audio plugin."*
-
 ## Audio Damage
 
 - [Rough Rider](https://www.audiodamage.com/pages/free-downloads) - *"one of the most popular free compressors in the world"*
