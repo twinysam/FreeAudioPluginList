@@ -187,7 +187,7 @@ These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 
 ## Thomas Mundt
 
-- [LoudMax](https://www.kvraudio.com/product/loudmax-by-thomas-mundt) - *"A look-Ahead brickwall loudness maximizer with a clean transparent sound."*
+- [LoudMax](https://loudmax.blogspot.com/) - *"A look-Ahead brickwall loudness maximizer with a clean transparent sound."*
 
 ## Tokyo Dawn Labs
 
