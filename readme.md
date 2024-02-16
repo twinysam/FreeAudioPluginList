@@ -185,6 +185,10 @@ These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 - [sTilt](https://www.tb-software.com/TBProAudio/stilt.html) - *"sTilt is a linear phase filter which tilts the audio spectrum around a given center frequency."*
 - [dpMeter 4](https://www.tb-software.com/TBProAudio/dpmeter4.html) - *"DSEQ is a dynamic processor working in the frequency domain.DSEQ removes digital harshness on the fly thanks to self-adjusting frequency bands."*
 
+## Thomas Mundt
+
+- [LoudMax](https://loudmax.blogspot.com/) - *"A look-Ahead brickwall loudness maximizer with a clean transparent sound."*
+
 ## Tokyo Dawn Labs
 
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - *"NOVA is a parallel dynamic equalizer. Appearing in the familiar layout of a parametric equalizer, each band also includes a full featured dynamics section allowing the processor to cover an impressively wide range of applications."*
