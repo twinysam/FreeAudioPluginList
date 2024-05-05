@@ -144,6 +144,9 @@ Requires iLok account
 - [Revival](https://www.slatedigital.com/revival/) - *"The result of years of research into what makes things sound ‘better’, Slate Digital’s Revival is a new type of Sonic Enhancer."*
 - [The Monster Extreme Dynamic Processor](https://www.slatedigital.com/the-monster-extreme-dynamic-processor/) - *"The Monster emulates the classic “all-buttons-in” extreme compression sound of the famous vintage FET limiter hardware."*
 
+## Smart Electronix
+- [s(M)exoscope](http://armandomontanez.com/smexoscope/) -*"is an oscilloscope VST plugin. You can use it to visually monitor audio wave forms"*
+
 ## Softube
 Requires registration + ilok account
 
