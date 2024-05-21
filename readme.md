@@ -37,6 +37,11 @@ One dude, making a ton of free plugins.
 
 - [Patreon link](https://www.patreon.com/analogobsession)
 
+## Anwida Soft
+[Requires registration]
+
+- [SPATIO Light](https://www.anwida.com/as_plugins/spatio-light/) - *"heir of the renowned DX Reverb Light reverb, is the ULTIMATE FREE reverb plug-in"*
+
 ## Audio Damage
 
 - [Rough Rider](https://www.audiodamage.com/pages/free-downloads) - *"one of the most popular free compressors in the world"*
@@ -88,7 +93,7 @@ Requires registration + an installer with all their plugins
 - [Ignite Amps plugins](https://www.igniteamps.com/#software) (all free except for Libra)
 
 ## iZotope
-Requires registration
+[Requires registration]
 
 - [Vinyl](https://www.izotope.com/en/products/vinyl.html) - *"Vinyl simulates the dust, scratches, warp, and mechanical noise reminiscent of yesteryear"*
 - [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html) - *"Control the width of any track, perfect for making super-wide sounds or creating narrow, mono-like sources."*
@@ -114,17 +119,17 @@ Requires registration
 - [TinyQ](https://www.kvraudio.com/product/tinyq-by-lkjb) - *"TinyQ is - as the name suggests - a rather tiny EQ"*
 
 ## MeldaProduction
-Requires downloading an installer with all of their plugins, but you can select to install only the free bundle (or individual plugins).
+[Requires downloading an installer with all of their plugins, but you can select to install only the free bundle (or individual plugins).]
 
 - [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle)
 
 ## Native Instruments (Effects only)
-Requires registration + Komplete Start
+[Requires registration + Komplete Start]
 
 - [Supercharger](https://www.native-instruments.com/en/products/komplete/effects/supercharger/) - *"Dripping with the high-octane attitude of a one-of-a-kind tube compressor – with an intelligent interface designed for supreme ease of use."*
 
 ## Plugin Alliance
-Requires registration
+[Requires registration]
 
 - [bx_cleansweep](https://www.plugin-alliance.com/en/products/bx_cleansweep_v2.html) (Brainworx) - *"bx_cleansweep is the plugin that should go into every mix channel as the first plugin. This way you can filter out any unwanted hi-end and lo-end, and the result is a clean and tight mix."*
 - [bx_solo](https://www.plugin-alliance.com/en/products/bx_solo.html) (Brainworx) - *"Brainworx created bx_solo to introduce users to the M/S technique"*
@@ -134,12 +139,12 @@ Requires registration
 - [niveau filter](https://www.plugin-alliance.com/en/products/elysia_niveau_filter.html) (elysia) - *"This filter provides a super simple way to change the overall sonic character of a signal."*
 
 ## Polyverse Music/Infected Mushroom
-Email required
+[Email required]
 
 - [Wider](https://polyversemusic.com/products/wider/) - *"Pseudo stereo widener without phase issues"*
 
 ## Slate Digital
-Requires iLok account
+[Requires iLok account]
 
 - [Revival](https://www.slatedigital.com/revival/) - *"The result of years of research into what makes things sound ‘better’, Slate Digital’s Revival is a new type of Sonic Enhancer."*
 - [The Monster Extreme Dynamic Processor](https://www.slatedigital.com/the-monster-extreme-dynamic-processor/) - *"The Monster emulates the classic “all-buttons-in” extreme compression sound of the famous vintage FET limiter hardware."*
@@ -148,7 +153,7 @@ Requires iLok account
 - [s(M)exoscope](http://armandomontanez.com/smexoscope/) -*"is an oscilloscope VST plugin. You can use it to visually monitor audio wave forms"*
 
 ## Softube
-Requires registration + ilok account
+[Requires registration + ilok account]
 
 - [Saturation Knob](https://www.softube.com/saturationknob) - *"Three modes, three kinds of distortion character. Great for fattening up drums and bass, adding harmonics to vocals, and more"*
 
