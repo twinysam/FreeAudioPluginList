@@ -91,6 +91,10 @@ Requires registration + an installer with all their plugins
 - [Midside Matrix](https://goodhertz.co/midside-matrix)
 - [Loudness](https://goodhertz.com/loudness/)
 
+## Hivetune
+
+- [Relica](https://www.hivetune.com/shop/relica) - _"Relica is an easy to use, high quality 8-bit synthetizer"_
+
 ## Ignite Amps
 
 _"At Ignite Amps, we decided to keep pace with technology, developing in-house highly detailed digital simulations of tube and solid-state electronic circuits."_
