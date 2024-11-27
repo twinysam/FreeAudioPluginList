@@ -244,17 +244,17 @@ These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 
 _“In each of my effects there is a special technical design, workflow or concept combination I haven’t found in existing tools. Many developers these days just stick to old concepts, but you will never see a straight copy of existing gear from me. I always add some innovation, or find a way to evolve and take it to a new level.”_
 
+- [https://varietyofsound.wordpress.com](https://varietyofsound.wordpress.com)
+
 ## vladg/sound
 
 [VST, AU]
 
 Free plugins made in Russia with love.
 
-- [Molot](https://vladgsound.wordpress.com/plugins/molot/) - _"the compressor with character"_
-- [Limiter №6](https://vladgsound.wordpress.com/plugins/limiter6/) - _"5 modules: RMS compressor, peak limiter, high-frequency limiter, clipper, true peak limiter"_
-- [Nova-67P](https://vladgsound.wordpress.com/plugins/nova67p/) - _"Nova-67P is a parallel parametric equalizer plugin combined with a compressor."_
-
-- [https://varietyofsound.wordpress.com](https://varietyofsound.wordpress.com)
+- [Molot](https://www.tokyodawn.net/vladg-molot-compressor/) - _"the compressor with character"_
+- [Limiter №6](https://www.tokyodawn.net/vladg-limiter-n6/) - _"5 modules: RMS compressor, peak limiter, high-frequency limiter, clipper, true peak limiter"_
+- [Nova-67P](https://www.tokyodawn.net/vladg-nova-67p/) - _"Nova-67P is a parallel parametric equalizer plugin combined with a compressor."_
 
 ## Voxengo
 
