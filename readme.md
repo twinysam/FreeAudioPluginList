@@ -246,7 +246,7 @@ _“In each of my effects there is a special technical design, workflow or conce
 
 - [https://varietyofsound.wordpress.com](https://varietyofsound.wordpress.com)
 
-## vladg/sound
+## VladG
 
 [VST, AU]
 
