@@ -105,6 +105,13 @@ _"At Ignite Amps, we decided to keep pace with technology, developing in-house h
 - [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html) - _"Control the width of any track, perfect for making super-wide sounds or creating narrow, mono-like sources."_
 - [Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html) - _"Vocal Doubler is a free plug-in designed to enhance your vocal with a natural doubling effect, adding richness and depth."_
 
+## Kilohearts
+
+[Requires registration and  downloading their core installer]
+
+- [Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials)
+- Includes: 3-Band EQ, Bitcrush, Channel Mixer, Chorus, Comb Filter, Compressor, Delay, Distortion, Dual Delay, Dynamics, Ensemble, Filter, Flanger, Formant Filter, Frequency Shifter, Gain, Gate, Lilmiter, Phaser, Reverb, Transient Shaper and more. 
+
 ## Klanghelm
 
 - [DC1A](https://klanghelm.com/contents/products/DC1A/DC1A.php) - _"effortless character comp"_
