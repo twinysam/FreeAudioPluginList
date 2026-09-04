@@ -122,6 +122,10 @@ _"At Ignite Amps, we decided to keep pace with technology, developing in-house h
 
 - [FreeAMP](https://klevgrand.com/products/freeamp) - _"...the sound of tape and tube saturation at the same time."_
 
+## Kyantech Labs
+
+- [Pakku](https://danielalves96.github.io/pakku-vst/) ([macOS](https://danielalves96.github.io/pakku-vst/downloads/Pakku-1.0.0-macOS.zip) | [Windows](https://danielalves96.github.io/pakku-vst/downloads/Pakku-1.0.0-Windows.zip) | [Source](https://github.com/danielalves96/pakku-vst)) - _"Free, open-source multiband transient shaper with three-band or full-range processing, a draggable threshold, and a 4x oversampled limiter or soft clipper."_
+
 ## LIM
 
 [VST, AU]
