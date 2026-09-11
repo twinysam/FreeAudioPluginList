@@ -210,6 +210,13 @@ These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) - _"Bitter shows how many of the available bits are being used by the audio signal, reports clipping samples, and estimates when digital-to-analog conversion would cause inter-sample clips."_
 
+## StudioZIO
+
+[AU, VST3, AAX and Standalone for Mac]
+
+- [StudioZIO Mastering Suite](https://studioziomasteringsuite.vercel.app/) - _"EQ, glue compression, mid/side width, saturation, true-peak limiting and delivery metering in one chain."_
+- [StudioZIO Tempo Delay](https://www.tempodelay.tech/) (Apple Silicon only) - _"Free tempo-synced stereo delay for macOS with independent L/R timing, ping-pong routing, filtered feedback, AU, VST3, AAX and Standalone formats."_
+
 ## TAL Software
 
 - [TAL-Chorus-LX](https://tal-software.com/products/tal-chorus-lx) - _"TAL-Chorus-LX is a 1:1 standalone version of the chorus implemented in TAL-U-NO-LX."_
