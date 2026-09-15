@@ -179,6 +179,12 @@ Plugins developed at the Laboratorio di Informatica Musicale (Music Informatics 
 - [Revival](https://www.slatedigital.com/revival/) - _"The result of years of research into what makes things sound ‘better’, Slate Digital’s Revival is a new type of Sonic Enhancer."_
 - [The Monster Extreme Dynamic Processor](https://www.slatedigital.com/the-monster-extreme-dynamic-processor/) - _"The Monster emulates the classic “all-buttons-in” extreme compression sound of the famous vintage FET limiter hardware."_
 
+## Sliding Cheesecake Records
+
+[VST3, AU, CLAP and Standalone for macOS; VST3, CLAP and Standalone for Windows]
+
+- [Drift Delay](https://slidingcheesecake.com/plugins/drift-delay) - _"Free stereo delay with tape, BBD and digital modes, reverse, pitch shifting, resonant filters and sidechain ducking. 76 presets."_
+
 ## Smart Electronix
 
 - [s(M)exoscope](http://armandomontanez.com/smexoscope/) -_"is an oscilloscope VST plugin. You can use it to visually monitor audio wave forms"_
