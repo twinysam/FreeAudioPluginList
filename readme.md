@@ -290,3 +290,10 @@ Free plugins made in Russia with love.
 ## Youlean
 
 - [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/) - _"Helps you comply with strict loudness requirements for the Film and TV industry."_
+
+## TizWildin Entertainment
+
+[VST3, AU, Standalone]
+
+- [FreeEQ8](https://github.com/GareBear99/FreeEQ8) - Free, open-source 8-band parametric EQ plugin built with JUCE, featuring linear phase, dynamic EQ, match EQ, per-band drive, M/S processing, oversampling, and band linking.
+
