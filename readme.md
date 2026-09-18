@@ -84,6 +84,14 @@ _"Chowdhury DSP is a project created by Jatin Chowdhury with the intention of de
 
 - [the fish fillets](http://www.digitalfishphones.com/main.php?item=2&subItem=5)
 
+## Full FX Media
+
+[VST and AU for Windows and Mac]
+
+Free plugins, no registration required.
+
+- [Setekh](https://fullfxmedia.com/plugins/) - A minimalistic yet sonically powerful distortion plugin
+
 ## Goodhertz
 
 Requires registration + an installer with all their plugins
@@ -107,10 +115,10 @@ _"At Ignite Amps, we decided to keep pace with technology, developing in-house h
 
 ## Kilohearts
 
-[Requires registration and  downloading their core installer]
+[Requires registration and downloading their core installer]
 
 - [Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials)
-- Includes: 3-Band EQ, Bitcrush, Channel Mixer, Chorus, Comb Filter, Compressor, Delay, Distortion, Dual Delay, Dynamics, Ensemble, Filter, Flanger, Formant Filter, Frequency Shifter, Gain, Gate, Lilmiter, Phaser, Reverb, Transient Shaper and more. 
+- Includes: 3-Band EQ, Bitcrush, Channel Mixer, Chorus, Comb Filter, Compressor, Delay, Distortion, Dual Delay, Dynamics, Ensemble, Filter, Flanger, Formant Filter, Frequency Shifter, Gain, Gate, Lilmiter, Phaser, Reverb, Transient Shaper and more.
 
 ## Klanghelm
 
