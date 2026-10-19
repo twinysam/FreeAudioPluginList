@@ -210,6 +210,14 @@ These installers WILL NOT work on modern operative systems (Windows 10, MacOS)
 
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) - _"Bitter shows how many of the available bits are being used by the audio signal, reports clipping samples, and estimates when digital-to-analog conversion would cause inter-sample clips."_
 
+## SubverseLab
+
+[VST3 and AU for Mac, VST3 for Windows. Requires registration (free, no card)]
+
+- [ALEV](https://subverselab.com/plugins/alev) - _"splits the sound at 200 Hz and 3 kHz and heats each part on its own: turn a steel ring and that band saturates, from a faint warmth to a dense, driven sound."_
+- [KIYMA](https://subverselab.com/plugins/kiyma) - _"listens to the channel it sits on, keeps the last complete block of bars, cuts it into steps and decides, step by step, whether to play the step that belongs there or to jump to another one nearby."_
+- [TABAN](https://subverselab.com/plugins/taban) - _"A limiter keeps audio from rising above a ceiling; TABAN keeps it from falling below a floor."_
+
 ## TAL Software
 
 - [TAL-Chorus-LX](https://tal-software.com/products/tal-chorus-lx) - _"TAL-Chorus-LX is a 1:1 standalone version of the chorus implemented in TAL-U-NO-LX."_
