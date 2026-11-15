@@ -172,6 +172,10 @@ Plugins developed at the Laboratorio di Informatica Musicale (Music Informatics 
 
 - [Wider](https://polyversemusic.com/products/wider/) - _"Pseudo stereo widener without phase issues"_
 
+## Revolver Audio
+
+- [FONI](https://revolver-audio.github.io/foni-plugin/) - _"Free voice leveler for podcast and YouTube. Evens out loud and quiet parts and brings the voice to a target loudness (-16 / -14 LUFS) in one step."_ (VST3, AU, CLAP, Standalone. Windows and macOS)
+
 ## Slate Digital
 
 [Requires iLok account]
