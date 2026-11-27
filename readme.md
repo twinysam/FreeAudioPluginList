@@ -172,6 +172,14 @@ Plugins developed at the Laboratorio di Informatica Musicale (Music Informatics 
 
 - [Wider](https://polyversemusic.com/products/wider/) - _"Pseudo stereo widener without phase issues"_
 
+## Raz Burg AudioCrafts
+
+[VST3, AU, AAX] [Requires registration]
+
+- [Chroma](https://audiocrafts.razburg.com/chroma/) - _"Six compressors. One knob."_
+- [Prism](https://audiocrafts.razburg.com/prism/) - _"Six EQs. The same controls."_
+- [Lumen](https://audiocrafts.razburg.com/lumen/) - _"Every era of space, in one plugin."_
+
 ## Slate Digital
 
 [Requires iLok account]
